@@ -7,6 +7,8 @@
   text-align:center;
   line-height:normal;
 }
+.box_1 {
+}
 .box_2 {
 }
 ._图片 {
@@ -59,4 +61,10 @@
 ._自由编辑 {
 }
 .line {
+}
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+.icon {
 }
